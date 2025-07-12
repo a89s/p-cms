@@ -13,5 +13,4 @@ content:
     label: Authors
     path: src/_data/authors.json
     type: file
-    fields: 
-    - {name: author, label: Author, type: string, required: true}
+    fields:
